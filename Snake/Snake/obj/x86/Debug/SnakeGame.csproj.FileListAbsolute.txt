@@ -1,6 +1,0 @@
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/bin/Debug/Snake.exe
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/bin/Debug/Snake.pdb
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/obj/x86/Debug/SnakeGame.csprojResolveAssemblyReference.cache
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/obj/x86/Debug/SnakeGame.csproj.CoreCompileInputs.cache
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/obj/x86/Debug/Snake.exe
-/Users/bilenkoyehor/Documents/ProjectsC_Sharp/Snake/Snake/obj/x86/Debug/Snake.pdb
